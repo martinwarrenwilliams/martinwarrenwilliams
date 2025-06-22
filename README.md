@@ -1,3 +1,0 @@
-- 👋 Hi, I’m @martinwarrenwilliams
-- 👀 I’m interested in teaching myself new languages
-- 🌱 I’m currently learning Nextjs, node, ionic/angular
